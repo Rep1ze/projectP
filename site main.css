@@ -8,3 +8,15 @@ h1{
     text-align: center;
     font-style: italic;
 }
+.btn1{
+    color: aquamarine;
+    background-color: black;
+    position: relative;
+    top: 150px;
+}
+.btn2{
+    color: aquamarine;
+    background-color: black;
+    position: relative;
+    top: 120px;
+}
