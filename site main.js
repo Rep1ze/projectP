@@ -1,12 +1,8 @@
-function forengeit(){
-    let a = prompt("Enter T")
+function a(){
+    let a = prompt("Enter T in F")
     if(!a || isNaN(a)){
-        for(; ; ){
-            alert("Numb is not correct")
-            return
-        }
+        alert("Wrong number")
     }else{
-        alert(a++ + 240 + "C")
-        alert(a++ - 240 + " F")
+        alert(a++ + 240 + " F")
     }
 }
